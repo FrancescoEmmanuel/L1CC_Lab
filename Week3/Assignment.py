@@ -51,6 +51,16 @@ person2 = {
 <<<<<<< HEAD
 L1cc.append(person2)
 
+person3 = {
+    "First_name":"Edward",
+    "Last_name":"Raphael",
+    "Age":"18",
+    "Hobby":"Badminton",
+}
+
+<<<<<<< HEAD
+L1cc.append(person3)
+
 =======
 >>>>>>> 0d58b361d2a8524c089a2bdec051e19ac4c3e7cf
 i = 1
