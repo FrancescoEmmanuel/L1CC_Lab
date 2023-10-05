@@ -16,6 +16,12 @@ person1 = {
     "First_name":"Ahmad",
     "Last_name":"Zaydan",
     "Age":"18",
+
+=======
+<<<<<<< HEAD
+    "First_name":"Edbert",
+    "Last_name":"Tan",
+    "Age":"18",
    
 =======
 <<<<<<< HEAD
