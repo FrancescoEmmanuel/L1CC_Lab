@@ -1,14 +1,20 @@
-
 L1cc = []
 person1 = {
-    "First_name":"Joshua",
-    "Last_name":"Rawatan",
+    "First_name":"Ahmad",
+    "Last_name":"Zaydan",
     "Age":"18",
+    "Hobby":"wacthing pornhub",
 }
 
 L1cc.append(person1)
 
+person2 = {
+    "First_name":"Haniif",
+    "Last_name":"Wardana",
+    "Age":"17",
+}
 
+L1cc.append(person2)
 
 i = 1
 
