@@ -1,8 +1,8 @@
 
 L1cc = []
 person1 = {
-    "First_name":"Joshua",
-    "Last_name":"Rawatan",
+    "First_name":"Samuel",
+    "Last_name":"James Setiadi",
     "Age":"18",
 }
 
