@@ -16,7 +16,7 @@ person1 = {
     "First_name":"Ahmad",
     "Last_name":"Zaydan",
     "Age":"18",
-    "Hobby":"wacthing golf hub",
+   
 =======
 <<<<<<< HEAD
     "First_name":"Vammy",
