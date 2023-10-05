@@ -9,8 +9,8 @@ person1 = {
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
-    "First_name":"Rheynorich",
-    "Last_name":"Kalistone",
+    "First_name":"Suwandi",
+    "Last_name":"The",
     "Age":"16",
 =======
     "First_name":"Harry",
