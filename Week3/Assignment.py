@@ -2,8 +2,8 @@ L1cc = []
 person1 = {
 <<<<<<< HEAD
 <<<<<<< HEAD
-    "First_name":"Haniif",
-    "Last_name":"Wardana",
+    "First_name":"Daffa",
+    "Last_name":"Naufal",
     "Age":"17",
 =======
 <<<<<<< HEAD
