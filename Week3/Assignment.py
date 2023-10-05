@@ -113,3 +113,9 @@ for person in L1cc:
     print(str(i)+". name: " + person["First_name"],"\nage: " +person["Age"],"\nhobby: " +person["Hobby"])
 >>>>>>> 97ccadb808110e8724141253ea4866ecf6294164
     i+=1
+<<<<<<< HEAD
+    "First_name":"William Ken",
+    "Last_name":"Hartono",
+    "Age":"18",
+=======
+<<<<<<< HEAD
