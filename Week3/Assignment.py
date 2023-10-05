@@ -14,7 +14,7 @@ person1 = {
 =======
 <<<<<<< HEAD
     "First_name":"Ahmad",
-    "Last_name":"Zaydan",
+    "Last_name":"Zaydan gtng",
     "Age":"18",
    
 =======
@@ -30,11 +30,7 @@ person1 = {
     "First_name":"Harry",
     "Last_name":"Chiu",
     "Age":"18",
->>>>>>> c2d03833e8194e0e71b40f410b761ebdfa978db2
->>>>>>> 0d58b361d2a8524c089a2bdec051e19ac4c3e7cf
->>>>>>> a283466feb1f761dd73b46372c7b976978c53267
-}
->>>>>>> c1528733017b6540cf5cd1a5c10b7a58d9fb63f9
+
 
 L1cc.append(person1)
 
@@ -48,7 +44,7 @@ person2 = {
 L1cc.append(person2)
 
 =======
->>>>>>> 0d58b361d2a8524c089a2bdec051e19ac4c3e7cf
+
 i = 1
 
 for person in L1cc:
