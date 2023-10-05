@@ -1,16 +1,16 @@
 
 L1cc = []
 person1 = {
-    "First_name":"Samuel",
-    "Last_name":"James Setiadi",
-    "Age":"18",
+    "First_name":"Haniif",
+    "Last_name":"Wardana",
+    "Age":"17",
 }
 
 L1cc.append(person1)
 
 person2 = {
-    "First_name":"Abyan",
-    "Last_name":"Kartasasmita",
+    "First_name":"Ahmad",
+    "Last_name":"Zaydan",
     "Age":"18",
 }
 
@@ -19,5 +19,5 @@ L1cc.append(person2)
 i = 1
 
 for person in L1cc:
-    print(str(i)+". name: " + person["First_name"],"\nage: " +person["Age"])
+    print(str(i)+". name: " + person["First_name"],"\n   age: " +person["Age"])
     i+=1
