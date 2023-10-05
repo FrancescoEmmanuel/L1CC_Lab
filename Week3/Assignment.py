@@ -8,7 +8,13 @@ person1 = {
 
 L1cc.append(person1)
 
+person2 = {
+    "First_name":"Abyan",
+    "Last_name":"Kartasasmita",
+    "Age":"18",
+}
 
+L1cc.append(person2)
 
 i = 1
 
