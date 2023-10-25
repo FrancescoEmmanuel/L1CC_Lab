@@ -53,7 +53,7 @@ digitalDecipher(eMessage, key) - "masterpiece
 
 14 10 22 29 6 27 19 18 6 12 8
 
--1  9  3  9  1  9  3  9  1  9  3
+1  9  3  9  1  9  3  9  1  9  3
 
 ________________________________ -
 
@@ -65,7 +65,7 @@ Examples
 
 digitalDecipher([20, 12, 18, 30, 21], 1939) -> "scout"
 
-digitalDecipher([14, 30, 11, 1, 20, 17, 18, 18], 1990)-4
+digitalDecipher([14, 30, 11, 1, 20, 17, 18, 18], 1990)->
 "mubashir"
 
 digitalDecipher([6, 4, 1, 3, 9, 20], 100) -> "edabit"
